@@ -1,2 +1,2 @@
 # BingRewards
-Autimate Bing Rewards
+Automate Bing Rewards for android
